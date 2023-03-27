@@ -1,7 +1,7 @@
 # Case
 
 # Blueprint
-![Architecture Insurance]()
+![Architecture Insurance](https://raw.githubusercontent.com/ChristianoPiccinin/case-etl-azure-1/main/img/arc.JPG)
 
 # Architecture
 ### Azure Queue Storage
